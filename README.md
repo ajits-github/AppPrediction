@@ -1,5 +1,5 @@
 # AppPrediction
-Design a model to predict the likelihood of installation based on the available parameter
+Design a model to predict the likelihood of installation of an app based on the available parameters
 
 The data (CSV file) contains information on all the ads a user has seen, including the expenditure to show the ad to the user and the earning from the user. The following table details the key
 information regarding the data:
